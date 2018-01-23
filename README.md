@@ -1,10 +1,11 @@
 #ExtractLinksFromMd
+![linkin'](https://media.giphy.com/media/l1JoiMJdEp23pjnt6/giphy.gif)
 ***
-**Este proyecto se basa en:**
+***Esta libreria se basa en:***
 
-Implementar un módulo de Node.js que reciba un string (en formato Markdown) y
+**Implementar un módulo de Node.js que reciba un string (en formato Markdown) y
 extraiga todos los links encontrados. La implementación debe ser una función que
-recibe un string y devuelve un arreglo de objetos como se muestra en el este
+recibe un string y devuelve un arreglo de objetos como se muestra en el este**
 *ejemplo:*
 
 ```js
@@ -23,7 +24,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.`;
 
-const links = extractLinksFromMd(str);
+const links = extractLinksFromMd(str); 
 
 console.log(links);
 // [
@@ -32,3 +33,6 @@ console.log(links);
 //   { href: 'http://foo.com', text: 'foo' },
 // ]
 ```
+
+
+
