@@ -1,5 +1,5 @@
 #ExtractLinksFromMd
-![linkin'](https://media.giphy.com/media/l1JoiMJdEp23pjnt6/giphy.gif)
+<img align="center" src="https://media.giphy.com/media/l1JoiMJdEp23pjnt6/giphy.gif">
 ***
 ***Esta libreria se basa en:***
 
